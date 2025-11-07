@@ -26,7 +26,7 @@ Aplikasi Absensi Seantero adalah sistem absensi berbasis web yang memudahkan pen
 ---
 
 ## 📄 Copyright & License
-==========================================================
+================================================
 © 2025 Muhammad Luthfi Farizqi. All Rights Reserved.  
 ==========================================================
 
@@ -48,4 +48,4 @@ Tidak izin diberikan kepada siapa pun untuk menggunakan, menyalin, memodifikasi,
 ---
 
 ## 🔗 Repository
-Project ini tersedia di GitHub: [seantero-attendance](https://github.com/username/seantero-attendance)
+Project ini tersedia di GitHub: [seantero-attendance](https://github.com/muhammadluthfi24/seantero-attendance)
