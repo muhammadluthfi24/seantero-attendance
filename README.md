@@ -34,4 +34,4 @@ Project ini bersifat **proprietary**.
 ---
 
 ## 🔗 Repository
-Project ini tersedia di GitHub: [seantero-attendance](https://github.com/username/seantero-attendance)
+Project ini tersedia di GitHub: [seantero-attendance]([https://github.com/username/seantero-attendance](https://github.com/muhammadluthfi24/seantero-attendance))
