@@ -26,7 +26,7 @@ Aplikasi Absensi Seantero adalah sistem absensi berbasis web yang memudahkan pen
 ---
 
 ## 📄 Copyright & License
-==============================================
+=============================================
 © 2025 Muhammad Luthfi Farizqi. All Rights Reserved.  
 ==========================================================
 
