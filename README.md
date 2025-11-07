@@ -58,6 +58,6 @@ Pengembang:
 - Email: luthfifarizqi23@gmail.com
 - GitHub: [github.com/muhammadluthfi24](https://github.com/muhammadluthfi24)
 ==========================================================
-
+```
 ## 🔗 Repository
 Project ini tersedia di GitHub: [seantero-attendance](https://github.com/muhammadluthfi24/seantero-attendance)
