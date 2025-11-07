@@ -34,4 +34,4 @@ Project ini bersifat **proprietary**.
 ---
 
 ## 🔗 Repository
-Project ini tersedia di GitHub: [Aplikasi Absensi Seantero](https://github.com/username/absensi-seantero)
+Project ini tersedia di GitHub: [seantero-attendance](https://github.com/username/seantero-attendance)
